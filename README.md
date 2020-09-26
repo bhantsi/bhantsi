@@ -3,7 +3,7 @@
  I am Bala Hantsi, Self tought web developer based in Kano Nigeria 🇳🇬
 
 ![Bala Hantsi's Stats](https://github-readme-stats.vercel.app/api?username=bhantsi&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhantsi)](https://github.com/bhantsi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhantsi&layout=compact)](https://github.com/bhantsi/github-readme-stats)
 <!--
 **bhantsi/bhantsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
