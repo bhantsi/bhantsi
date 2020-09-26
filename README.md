@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I am Bala Hantsi, Self tought web developer based in Kano Nigeria 
+ I am Bala Hantsi, Self tought web developer based in Kano Nigeria 🇳🇬
 
 <!--
 **bhantsi/bhantsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
