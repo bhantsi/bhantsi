@@ -39,7 +39,7 @@
 
 <h3>Tools I Used: </h3>
 <p  align="left">
-<a href="https://code.visualstudio.com/" target="_blank"> <img scr="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" width="40" height="40"> </a>
+
 <a href="#"> <img src="https://cdn.svgporn.com/logos/terminal.svg" alt="terminal" width="40" height="40"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
