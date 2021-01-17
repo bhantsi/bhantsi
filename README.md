@@ -54,9 +54,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhantsi&show_icons=true" alt="bhantsi" /></p>
 
 
-<!--
- I am Bala Hantsi, Self tought web developer based in Kano Nigeria 
->
 
 
 ![Bala Hantsi's Stats](https://github-readme-stats.vercel.app/api?username=bhantsi&theme=dark&show_icons=true)
