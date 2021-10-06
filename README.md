@@ -1,4 +1,7 @@
-
+<a href="#"><img src="https://res.cloudinary.com/bhantsi/image/upload/v1633529097/undraw_Developer_activity_re_39tg.svg" height="50%" width="50%"/></a>
+<br/>
+<br/>
+<hr>
 
 <h1 align="center">Hi 👋, I'm Bala Hantsi</h1>
 <h3 align="center">A passionate frontend developer from Kano, Nigeria 🇳🇬</h3>
