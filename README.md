@@ -1,8 +1,9 @@
 <!--<a href="#"><img src="https://res.cloudinary.com/bhantsi/image/upload/v1633529097/undraw_Developer_activity_re_39tg.svg" height="50%" width="60%" align="center"/></a> -->
+<img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="700px">
 <h1 align="center">Hi 👋, I'm Bala Hantsi</h1>
 <h3 align="center">A passionate frontend developer from Kano, Nigeria 🇳🇬</h3>
 
-<img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="700px">
+
 
 <hr>
 
@@ -31,7 +32,7 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> </a>
  <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="vuejs" width="40" height="40"/> </a>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhantsi&" alt="bhantsi" /></p> 
+ 
 
 
 
@@ -41,19 +42,15 @@
 <a href="#"> <img src="https://cdn.svgporn.com/logos/terminal.svg" alt="terminal" width="40" height="40"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code-icon" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="vs-code-icon" width="40" height="40"/> </a> 
-
-
-
-
-
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="vs-code-icon" width="40" height="40"/> </a>
 </p>
-
-
-
 
 ![Bala Hantsi's Stats](https://github-readme-stats.vercel.app/api?username=bhantsi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhantsi&layout=compact)](https://github.com/bhantsi/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhantsi&" alt="bhantsi" /></p> 
+
+
 <!--
 **bhantsi/bhantsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
