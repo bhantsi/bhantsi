@@ -45,23 +45,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="vs-code-icon" width="40" height="40"/> </a>
 </p>
 
-![Bala Hantsi's Stats](https://github-readme-stats.vercel.app/api?username=bhantsi&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhantsi&layout=compact)](https://github.com/bhantsi/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhantsi&" alt="bhantsi" /></p> 
-
-
-<!--
-**bhantsi/bhantsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
+![Bala Hantsi's Stats](https://github-readme-stats.vercel.app/api?username=bhantsi&show_icons=true&theme=gotham&hide_border=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhantsi&layout=compact&theme=gotham&hide_border=true)](https://github.com/bhantsi/github-readme-stats)
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=bhantsi&theme=gotham&hide_border=true" alt="bhantsi" /></p>
