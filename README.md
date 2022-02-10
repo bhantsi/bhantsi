@@ -47,7 +47,7 @@
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhantsi&layout=compact&hide_border=true&theme=gotham" />
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhantsi&show_icons=true&hide_border=true&theme=gotham" />
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=bhantsi&theme=gotham&hide_border=true" alt="bhantsi" />  
+ <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=bhantsi&theme=gotham&hide_border=true" alt="bhantsi" />  
 </p>
 
 
