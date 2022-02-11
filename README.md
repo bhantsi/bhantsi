@@ -44,12 +44,12 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code-icon" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="vs-code-icon" width="40" height="40"/> </a>
 </p>
-<p>
+
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhantsi&layout=compact&hide_border=true&theme=gotham" />
-</p>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhantsi&show_icons=true&hide_border=true&theme=gotham" />
- <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=bhantsi&theme=gotham&hide_border=true" alt="bhantsi" />  
+ <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=bhantsi&theme=gotham&hide_border=true" alt="bhantsi" align="center"/>  
 </p>
 
 
