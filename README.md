@@ -1,14 +1,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhantsi" alt="bhantsi" /> </p>
 I am passionate about web development and the technologies arount web
+
 * 🌍  I'm based in Kano Nigeria
 * ✉️  You can contact me at [bhantsi@gmail.com](mailto:bhantsi@gmail.com)
 * 🧠  I'm learning Software engineering with ALX
 * 🤝  I'm open to collaborating on Open-source projects
 * ⚡  I am open for internship opportunity
+
 
 <a href="https://www.twitter.com/b_hantsi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/b_hantsi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
