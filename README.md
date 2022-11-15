@@ -1,8 +1,9 @@
-<!--<a href="#"><img src="https://res.cloudinary.com/bhantsi/image/upload/v1633529097/undraw_Developer_activity_re_39tg.svg" height="50%" width="60%" align="center"/></a> -->
-<img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="700px">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhantsi" alt="bhantsi" /> </p>
 I am passionate about web development and the technologies arount web
-
 * 🌍  I'm based in Kano Nigeria
 * ✉️  You can contact me at [bhantsi@gmail.com](mailto:bhantsi@gmail.com)
 * 🧠  I'm learning Software engineering with ALX
