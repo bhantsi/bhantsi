@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<!-- <p>I am passionate about web development and the technologies arount web</p> -->
+<!-- <p>I am passionate about web development and the technologies around web</p> -->
 👨‍💻 About Me
 
 I'm a terminal-driven developer with a passion for efficiency, automation, and clean code. My daily toolkit blends **JavaScript/Node.js** and **Python**, reflecting my full-stack mindset. Whether I'm managing packages with `npm` or `pip`, deploying with `sudo`, or navigating Git workflows, I strive to make every keystroke count.
