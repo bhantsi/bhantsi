@@ -3,27 +3,26 @@
 </div>
 
 
-<!-- * 🌍  I'm based in Kano Nigeria
-* ✉️  You can contact me at [bhantsi@gmail.com](mailto:bhantsi@gmail.com)
-* 🧠  I'm learning Software engineering with ALX
-* 🤝  I'm open to collaborating on Open-source projects
-* ⚡  I am open for internship opportunity -->
-
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<p>I am passionate about web development and the technologies arount web</p>
+<!-- <p>I am passionate about web development and the technologies around web</p> -->
+👨‍💻 About Me
+
+I'm a terminal-driven developer with a passion for efficiency, automation, and clean code. My daily toolkit blends **JavaScript/Node.js** and **Python**, reflecting my full-stack mindset. Whether I'm managing packages with `npm` or `pip`, deploying with `sudo`, or navigating Git workflows, I strive to make every keystroke count.
+
+I'm an advocate for powerful CLI tools, custom scripts, and a minimal but informative terminal setup. My workflow is optimized for speed — aliases like `ll`, `gst`, and `gh-feed` are second nature, and I'm equally at home in `VS Code`, the shell, or scripting automation pipelines.
+
+**Tech Highlights:**
+- 💻 Fluent in **Node.js**, **Python**, and CLI scripting
+- 🔧 Regular use of `npm`, `pip`, and `sudo` for managing tools and environments
+- 🌲 Directory navigation and file management wizard using `cd`, `ll`, `tree`, and custom scripts
+- 🔄 Git-native with a taste for clean commit hygiene (`gst`, `git`, `rm`, `source`)
+- 🚀 Comfortable in Zsh and custom terminal environments (Oh My Zsh, neofetch, etc.)
+
+> I build, break, and rebuild — all from the command line.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhantsi&label=Profile%20views&color=0e75b6&style=flat" alt="bhantsi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/b_hantsi" target="blank"><img src="https://img.shields.io/twitter/follow/b_hantsi?logo=twitter&style=for-the-badge" alt="b_hantsi" /></a> </p>
-
-- 🌱 I’m currently learning **Software Engineering at ALX**
-
-- 👯 I’m looking to collaborate on **opensorce project**
-
-- 💬 Ask me about **front-end**
-
-- 📫 How to reach me **bhantsi@gmail.com**
-
-- ⚡ Fun fact **I think I am funny and easy going**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
